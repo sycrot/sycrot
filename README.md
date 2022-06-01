@@ -1,4 +1,4 @@
-
+<img src="./bg_tf_thiagofarias_logo.jpg" alt="img" />
 
 ## 👋 Hello!
 Sou Thiago Farias, tenho 22 anos, trabalho com desenvolvimento web. Sou do Brasil, e atualmente estou em busca de uma oportunidade, trabalho desenvolvendo e praticando com projetos próprios.
