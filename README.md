@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sycrot
+- 👋 Hi, I’m Thiago Farias
 - 👀 I’m interested in learn
 - 🌱 I’m currently learning JavaScript, React, Node, HTML and CSS
 - 💞️ I’m looking to collaborate on projects in the languages that i work
