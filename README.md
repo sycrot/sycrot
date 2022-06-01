@@ -1,6 +1,6 @@
 <img src="./bg_tf_thiagofarias_logo.jpg" alt="img" />
 
-## 👋 Hello!
+## Hello!👋 
 Sou Thiago Farias, tenho 22 anos, trabalho com desenvolvimento web. Sou do Brasil, e atualmente estou em busca de uma oportunidade, trabalho desenvolvendo e praticando com projetos próprios.
 
 [![Portfolio](https://img.shields.io/website?label=tfportfolio&style=for-the-badge&url=https://portfoliotf.netlify.app/)](https://portfoliotf.netlify.app)
@@ -8,10 +8,10 @@ Sou Thiago Farias, tenho 22 anos, trabalho com desenvolvimento web. Sou do Brasi
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-farias-136781193/)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/tfeditor)
 
-### GitHub stats
+### 📈 GitHub stats
 ![Sycrot GitHub stats](https://github-readme-stats.vercel.app/api?username=sycrot&show_icons=true&theme=tokyonight)
 
-### Technologies of my everyday life
+### 👨‍💻 Technologies of my everyday life
 
 <div style="display: inline-block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -22,7 +22,7 @@ Sou Thiago Farias, tenho 22 anos, trabalho com desenvolvimento web. Sou do Brasi
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
-### Other skills
+### 🛠️ Other skills
 <div style="display: inline-block">
   <img align="center" alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
   <img align="center" alt="aftereffects" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" />
