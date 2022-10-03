@@ -1,7 +1,9 @@
 <img src="./bg_tf_thiagofarias_logo.jpg" alt="img" />
 
 ## Hello!👋 
-Sou Thiago Farias, tenho 22 anos, trabalho com desenvolvimento web. Sou do Brasil, e atualmente estou em busca de uma oportunidade, trabalho desenvolvendo e praticando com projetos próprios.
+Sou Thiago Farias e desde sempre gosto muito de tecnologia. Tive meu primeiro contato com programação em 2017, assim que ingressei na faculdade de Análise e Desenvolvimento de Sistemas, e desde sempre tenho dado foco para a área de desenvolvimento. No começo ainda tinha um pouco de confusão em qual área da programação/desenvolvimento me colocar, mas depois de um tempo vi que o desenvolvimento web era o que eu mais tinha afinidade. Juntei algumas habilidades de design gráfico que eu já tinha e comecei a aprender e me aprimorar na área de desenvolvimento web.
+
+Hoje já entendo de algumas tecnologias voltadas para frontend e outras para backend. Além disso, nunca parei de praticar minhas habilidades com design gráfico, web design e afins!
 
 [![Portfolio](https://img.shields.io/website?label=tfportfolio&style=for-the-badge&url=https://portfoliotf.netlify.app/)](https://portfoliotf.netlify.app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/editor.tf/)
