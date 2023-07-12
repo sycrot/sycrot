@@ -5,7 +5,7 @@ Sou Thiago Farias e desde sempre gosto muito de tecnologia. Tive meu primeiro co
 
 Hoje já entendo de algumas tecnologias voltadas para frontend e outras para backend. Além disso, nunca parei de praticar minhas habilidades com design gráfico, web design e afins!
 
-[![Portfolio](https://img.shields.io/website?label=tfportfolio&style=for-the-badge&url=https://portfoliotf.netlify.app/)](https://portfoliotf.netlify.app)
+[![Portfolio](https://img.shields.io/website?label=tfportfolio&style=for-the-badge&url=https://portfoliotf.netlify.app/)](https://portfolio-thiagofarias.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/editor.tf/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-farias-136781193/)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/tfeditor)
