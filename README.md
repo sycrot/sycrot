@@ -31,7 +31,7 @@ Hoje já entendo de algumas tecnologias voltadas para frontend e outras para bac
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://media.licdn.com/dms/image/C4D0BAQEH8CL7UdnKWg/company-logo_200_200/0/1642596929404?e=2147483647&v=beta&t=2XCR8NfoKQD2YorNtHYAJI1my_DaI08V_izoP8PYGnM](https://media.licdn.com/dms/image/C560BAQFEWGok9TqoNg/company-logo_200_200/0/1631358525490?e=1716422400&v=beta&t=LiDVwf6MuYoNr7-2GkBYeTUuS_BBCCrBejCyQE4E_ts)"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQFEWGok9TqoNg/company-logo_200_200/0/1631358525490?e=1716422400&v=beta&t=LiDVwf6MuYoNr7-2GkBYeTUuS_BBCCrBejCyQE4E_ts"/>](https://www.spacex.com/)
 
 **Frontend Developer** \
 [**DoMore!**](https://www.linkedin.com/company/domore-solucoes-em-produtividade/mycompany/) • Full-time \
@@ -45,7 +45,7 @@ Linguagens & Tecnologias: `JavaScript`, `JQuery`, `SASS`, `React`, `Next`, `Micr
 Linguagens & Tecnologias: `JavaScript`, `JQuery`, `SASS`, `Laravel`, `Docker`, `React`,\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdicasolar.com.br%2Finstalador%2Fj7-solar-696%2F&psig=AOvVaw2q7srHnuL8C9qyLJ_erbzX&ust=1699881022181000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjsl8fDvoIDFQAAAAAdAAAAABAI"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://j7solar.com.br/wp-content/uploads/2023/06/J7-LARANJA-RESTANTE-BRANCO.png"/>](https://www.spacex.com/)
 
 **Frontend Developer** \
 [**J7 Solar Energy.**](https://j7solar.com.br/) • Full-time \
