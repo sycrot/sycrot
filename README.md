@@ -31,6 +31,13 @@ Hoje já entendo de algumas tecnologias voltadas para frontend e outras para bac
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://media.licdn.com/dms/image/C4D0BAQEH8CL7UdnKWg/company-logo_200_200/0/1642596929404?e=2147483647&v=beta&t=2XCR8NfoKQD2YorNtHYAJI1my_DaI08V_izoP8PYGnM](https://media.licdn.com/dms/image/C560BAQFEWGok9TqoNg/company-logo_200_200/0/1631358525490?e=1716422400&v=beta&t=LiDVwf6MuYoNr7-2GkBYeTUuS_BBCCrBejCyQE4E_ts)"/>](https://www.spacex.com/)
+
+**Frontend Developer** \
+[**DoMore!**](https://www.linkedin.com/company/domore-solucoes-em-produtividade/mycompany/) • Full-time \
+Linguagens & Tecnologias: `JavaScript`, `JQuery`, `SASS`, `React`, `Next`, `Microsoft SharePoint`,\
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQEH8CL7UdnKWg/company-logo_200_200/0/1642596929404?e=2147483647&v=beta&t=2XCR8NfoKQD2YorNtHYAJI1my_DaI08V_izoP8PYGnM"/>](https://www.spacex.com/)
 
 **Frontend Developer** \
