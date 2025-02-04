@@ -31,21 +31,21 @@ Hoje já entendo de algumas tecnologias voltadas para frontend e outras para bac
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQFEWGok9TqoNg/company-logo_200_200/0/1631358525490?e=1716422400&v=beta&t=LiDVwf6MuYoNr7-2GkBYeTUuS_BBCCrBejCyQE4E_ts"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" style="object-fit: cover;" alt="Warpnet" src="https://static.wixstatic.com/media/58bd55_66b0a43a6f0b475080af9e54b59efda0~mv2.png"/>](https://www.arqueum.com/) 
 
 **Frontend Developer** \
-[**DoMore!**](https://www.linkedin.com/company/domore-solucoes-em-produtividade/mycompany/) • Full-time \
+[**Arqueum**](https://www.linkedin.com/company/domore-solucoes-em-produtividade/mycompany/) • Full-time \
 Linguagens & Tecnologias: `JavaScript`, `JQuery`, `SASS`, `React`, `Next`, `Microsoft SharePoint`,\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQEH8CL7UdnKWg/company-logo_200_200/0/1642596929404?e=2147483647&v=beta&t=2XCR8NfoKQD2YorNtHYAJI1my_DaI08V_izoP8PYGnM"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQEH8CL7UdnKWg/company-logo_200_200/0/1642596929404?e=2147483647&v=beta&t=2XCR8NfoKQD2YorNtHYAJI1my_DaI08V_izoP8PYGnM"/>](https://attingedigital.com.br/)
 
 **Frontend Developer** \
 [**Attinge Digital Ltda.**](https://attingedigital.com.br/) • Full-time \
 Linguagens & Tecnologias: `JavaScript`, `JQuery`, `SASS`, `Laravel`, `Docker`, `React`,\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://j7solar.com.br/wp-content/uploads/2023/06/J7-LARANJA-RESTANTE-BRANCO.png"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://j7solar.com.br/wp-content/uploads/2023/06/J7-LARANJA-RESTANTE-BRANCO.png"/>](https://j7solar.com.br/)
 
 **Frontend Developer** \
 [**J7 Solar Energy.**](https://j7solar.com.br/) • Full-time \
